@@ -1,0 +1,26 @@
+{
+  "name": "react-webgl-programming-guide-examples",
+  "author": {
+    "name": "ZhangYahan",
+    "email": "yahan233@163.com"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.26.1",
+    "@types/lodash-es": "^4.17.6",
+    "@types/node": "^18.7.15",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "eslint": "^8.23.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "sass": "^1.54.8",
+    "typescript": "^4.8.2",
+    "vite": "^3.0.7"
+  }
+}
