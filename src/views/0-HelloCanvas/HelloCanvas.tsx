@@ -23,7 +23,7 @@ export default function HelloCanvas(): JSX.Element {
 
   return (
     <div className="container">
-      <canvas ref={ref}>
+      <canvas ref={ref} width={'400'} height={'400'}>
         Please use a browser that supports &quot;canvas&quot;
       </canvas>
     </div>
