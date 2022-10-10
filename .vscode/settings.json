@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 16,
-  "terminal.integrated.fontSize": 16,
+  "editor.fontSize": 12,
+  "terminal.integrated.fontSize": 12,
   "editor.fontFamily": "Monaco, Menlo, 'Courier New', monospace",
 }
