@@ -1,6 +1,6 @@
 {
-  "editor.fontSize": 12,
-  "terminal.integrated.fontSize": 12,
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
   "editor.fontFamily": "Monaco, Menlo, 'Courier New', monospace",
 
   "liveServer.settings.root": "/examples"

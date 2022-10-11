@@ -10,6 +10,9 @@ export default function Home(): JSX.Element {
         <li>
           <Link to={'/1-hello-point'}>1-hello-point</Link>
         </li>
+        <li>
+          <Link to={'/2-checked-points'}>2-checked-points</Link>
+        </li>
       </ul>
     </div>
   )
